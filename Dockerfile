@@ -1,10 +1,10 @@
 # syntax=docker/dockerfile:1
 
-FROM toxchat/freebsd
+FROM sanketlab2021/freebsd
 
 LABEL maintainer="DE:AD:10:C5 <thedevilsvoice@dead10c5.org>"
-LABEL org.opencontainers.image.source = "https://github.com/DEAD10C5/bsd-build-env"
-LABEL org.opencontainers.image.description="DE:AD:10:C5 BSD Build Env"
+LABEL org.opencontainers.image.source = "https://github.com/DEAD10C5/freebsd-build-env"
+LABEL org.opencontainers.image.description="DE:AD:10:C5 Free BSD Build Env"
 LABEL org.opencontainers.image.licenses=GPLv2
 
 
