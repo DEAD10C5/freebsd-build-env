@@ -1,0 +1,1 @@
+PS1="`whoami`@`hostname | sed 's/\..*//'`:\w "
